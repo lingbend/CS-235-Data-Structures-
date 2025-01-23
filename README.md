@@ -32,3 +32,35 @@ Grid.h was provided by BYU.
 This program solves a maze of the format of the provided test files, with the first line giving the number rows, columns, and levels. The subsequent lines are divided into contiguous floors with 1 representing spaces and 0 representing walls. The first floor in the file is the bottom floor. Starting the in upper left corner of the bottom floor (at 0,0,0) the solver recursively checks until it finds a valid path to the lower right corner of the top floor. It outputs the solution from start to finish in the form of one set of coordinates per line to the output text file in the form of (row, col, floor).
 
 This project demonstrates recursion, nested data structures, and file i/o.
+
+## Homework 3c: Insertion Sort
+This program reads each line of a provided text file and outputs them in alphabetical order to the console using insertion sort.
+
+This project demonstrates insertion sort.
+
+## Homework 3d: Quicksort
+sort.cpp and tests.cpp were provided by BYU.
+This program implements quicksort, including the median of 3 fix to make the pathological case for Big O much less likely.
+
+This project demonstrates quicksort and templated functions
+
+## Homework 4a: Singly Linked Lists
+tests.cpp as well as the basic structure (Node and method names) were provided by BYU.
+This program implements a singly linked list class data structure as a templated class.
+
+This project demonstrates templated classes, singly linked lists, and pointers.
+
+## Homework 4b: Doubly Linked Lists
+tests.cpp as well as the basic structure (Node and method names) were provided by BYU.
+This program implements a doubly linked list class data structure as a templated class.
+
+This project demonstrates templated classes, doubly linked lists, and pointers.
+
+## Homework 4c: Vector Class
+tests.cpp and basic structure (method and class names) were provided by BYU.
+Implements a templated vector class using arrays stored on the heap and dynamic growth.
+
+This project demonstrates templated classes, vector data structures, pointers, and overriding operators.
+
+## Homework 5b: 
+
