@@ -62,5 +62,15 @@ Implements a templated vector class using arrays stored on the heap and dynamic 
 
 This project demonstrates templated classes, vector data structures, pointers, and overriding operators.
 
-## Homework 5b: 
+## Homework 5d: AVL
+tests.cpp and basic structure provided by BYU.
+Implements a self balancing binary search tree known as an AVL in a data structure templated class.
+Note that this was built over several assignments.
 
+This project demonstrates templated classes, BST, AVL, pointers, and recursion.
+
+## Homework 6a: HashSet
+test.cpp and basic structure provided by BYU.
+Implements a templated hashset class using c++'s built in hashing function and chaining.
+
+This project demonstrates hashing, chaining, hashsets, and pointers.
